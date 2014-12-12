@@ -6,7 +6,7 @@ Sharing many well-known companies' Interview questions during my preparation for
 分享我在准备找工作期间参与的一些知名公司的笔试面试题。这些公司包括微软、阿里巴巴、百度、腾讯、搜狗、奇虎360、优酷等等，大部分笔试题和面试题都有详细分析解答和面试技巧分享。
 
 **PS**：
-> 1. 请随时关注我的CSDN关注“[敏敏笔试面试分享](http://blog.csdn.net/column/details/it-interview.html)”，最新的资料会及时更新。
+>1. 请随时关注我的CSDN关注“[敏敏笔试面试分享](http://blog.csdn.net/column/details/it-interview.html)”，最新的资料会及时更新。
 
 >2.下面的内容目前都发表在博客里，有些内容已经用markdown格式重新整理存放到该github目录下，但更多的内容没有整理进来。希望有一些热心的contributors能够参与进这个项目，将博客内容重新用markdown格式整理进github，方便大家更方便的查看和一次性clone到本地存储。
 
